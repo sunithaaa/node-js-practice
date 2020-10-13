@@ -1,0 +1,17 @@
+1. All computers connected to the internet has unique IP address and we need it to identify .
+2. Some special computers known as Hosts meaning they host websites in the internet ,,if we create and publish a website it will be hosted on
+    a computer somewher and that computer will have IP address to identify it.
+3. If we want to connect to host server we need Ip address to connect to it.
+4. IP addresses are series of numbers and its hard to remember those as there are thousands of websites.
+5. As it is difficult to remember IP address of various websites ,instead we use domain names to mask these IP addresses.
+6. when we type this domain name in the browser it looks for the IP with associated domain redirects to that particular site .
+7. server then looks at that request and respond with some html page.
+8. we have various requests like get,post,update,delete.
+9. Communication between server and client is via HTTP(its like a language incase of humans as language is to communicate between us) (hyper text transfer protocol) its just a set of instructions to specify how communication occurs.
+
+LOCALHOST and PORT NUMBERS
+1. localhost is like a domain name on the web.
+
+2. localhost --> 127.0.0.1 --> own computer
+
+3. port numbers are like "Doors" into a computer through which internet communications are made. ex:3000 in own browser as default.
